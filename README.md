@@ -2,6 +2,10 @@
 
 Aplicación en React de la versión propuesta de InscribeUAQ, con los defectos del expediente corregidos. Datos ficticios; sin pagos reales.
 
+**En línea:** https://proyectofinalsaladecontroldecalidad.vercel.app/ · Tablero de pruebas: https://proyectofinalsaladecontroldecalidad.vercel.app/#/tablero
+
+**Entregables** (expediente, presentación y guía de exposición): carpeta [`Entregables/`](Entregables/).
+
 ## Ejecutar
 
 ```bash

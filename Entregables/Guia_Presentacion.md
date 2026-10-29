@@ -2,7 +2,7 @@
 
 **Duración:** 15 minutos (13 de exposición + 2 de preguntas del comité).
 **Decisión que defendemos:** **No liberar** InscribeUAQ.
-**Material:** presentación de 12 diapositivas (`Presentacion_InscribeUAQ_Equipo2.pptx` en esta carpeta, o el [deck en línea](https://claude.ai/artifact/8qf9CXebzke84wTD4YgyLf)), expediente (`E02_Expediente_ProyectoFinal_InscribeUAQ.docx`) y la aplicación desplegada en Vercel.
+**Material:** presentación de 12 diapositivas (`Presentacion_InscribeUAQ_Equipo2.pptx` en esta carpeta, o el [deck en línea](https://claude.ai/artifact/8qf9CXebzke84wTD4YgyLf)), expediente (`E02_Expediente_ProyectoFinal_InscribeUAQ.docx`) y la aplicación desplegada en Vercel: **https://proyectofinalsaladecontroldecalidad.vercel.app/** (tablero de pruebas en `/#/tablero`).
 
 > Regla de oro: la exposición defiende la decisión con evidencia; no recorre el expediente página por página. Toda cifra se dice con su fuente (E03, E7-03, AUT-03…) y su denominador ("2 de 3", "12 de 15").
 
@@ -15,13 +15,13 @@
 3. **Validar los datos que generó la IA** (sección 12 del expediente): la escala P×I llevada de 1–3 a 1–5 y los IDs nuevos (DEF-06, D01–D10, M01, L01, FP-01). Cada integrante revisa los de su rol contra los PDFs de las actividades 4–11.
 4. **Descargar la presentación** como PPTX y PDF (respaldo sin internet).
 5. **Ensayo cronometrado completo** al menos una vez; cada quien dice sólo su bloque, con la tabla de tiempos de la sección 3.
-6. **Preparar la demo** (opcional, sólo para preguntas): abrir la app en Vercel en una pestaña y el tablero (`/#/tablero`) en otra.
+6. **Preparar la demo** (opcional, sólo para preguntas): abrir https://proyectofinalsaladecontroldecalidad.vercel.app/ y, en la misma pestaña, cambiar a `/#/tablero` cuando haga falta (el estado sólo se comparte dentro de la misma pestaña).
 
 ## 2. Montaje en el aula (5 minutos antes)
 
 1. Abrir la presentación en modo presentador; comprobar que se lee desde el fondo del aula.
 2. Tener el PDF de respaldo en una memoria USB.
-3. Si habrá demo: abrir la app de Vercel e iniciar sesión con expediente `000001` y cualquier contraseña.
+3. Si habrá demo: abrir https://proyectofinalsaladecontroldecalidad.vercel.app/ e iniciar sesión con expediente `000001` y cualquier contraseña.
 4. Tener a la mano el expediente impreso o abierto en la sección 9 (defectos) y 13 (tablero) para responder.
 
 ## 3. Guion por bloque
