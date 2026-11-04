@@ -1,0 +1,6 @@
+Identificador: E8-06
+Relación: CP-12 · D06 (H1)
+Fuente: Actividad 8, p. 7: sesión PE02 (10:20–10:35), Modo B; respuesta del simulador S5.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 03): abrir la pantalla de confirmación y horario en 390 × 844 px. Resultado: el botón "Confirmar" queda parcialmente recortado fuera del viewport, exigiendo scroll horizontal involuntario para ser pulsado.

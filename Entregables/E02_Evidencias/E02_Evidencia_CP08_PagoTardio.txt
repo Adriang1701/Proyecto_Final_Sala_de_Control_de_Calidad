@@ -1,0 +1,6 @@
+Identificador: E7-03
+Relación: CP-08 · D04 (DEF-06)
+Fuente: Actividad 7, p. 10: traza ficticia suministrada por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+Una solicitud Pendiente de pago se cancela y libera su lugar. Después llega una notificación de pago autorizado: el sistema cambia a Confirmada y genera un comprobante de inscripción.

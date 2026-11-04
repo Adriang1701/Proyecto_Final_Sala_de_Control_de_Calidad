@@ -1,0 +1,6 @@
+Identificador: E6-05
+Relación: CP-06 · L01
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+La comprobación previa de disponibilidad del servicio externo de pagos devolvió "Servicio QA de pagos no disponible". No se envió ninguna transacción; tampoco se recibió autorización. No hay evidencia para evaluar la confirmación posterior al pago.

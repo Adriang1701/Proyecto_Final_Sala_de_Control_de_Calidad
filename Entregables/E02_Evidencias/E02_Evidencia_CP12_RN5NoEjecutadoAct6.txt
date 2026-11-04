@@ -1,0 +1,6 @@
+Identificador: E6-06
+Relación: CP6-06 (cubierto después por CP-12)
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+El coordinador cerró la ventana de trabajo antes de iniciar este caso. El ambiente estaba disponible, pero no se abrió el horario ni se intentó descargar el archivo. No existe resultado observado.

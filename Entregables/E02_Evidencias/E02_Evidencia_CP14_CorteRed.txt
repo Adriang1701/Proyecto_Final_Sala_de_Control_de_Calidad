@@ -1,0 +1,6 @@
+Identificador: E8-05
+Relación: CP-14 · D07 (H2)
+Fuente: Actividad 8, p. 5: sesión PE01 (10:00–10:15), Modo B; respuesta del simulador S4.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 14): enviar confirmación simulando corte abrupto de red. Resultado: el indicador de carga se queda activo indefinidamente. Al recargar con red, la reserva sí se creó, pero el usuario nunca vio confirmación.

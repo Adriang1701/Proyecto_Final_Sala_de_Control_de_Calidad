@@ -1,0 +1,6 @@
+Identificador: E8-08
+Relación: CP-15 · M01 (H4)
+Fuente: Actividad 8, p. 7: sesión PE02 (10:20–10:35), Modo B; respuesta del simulador S8.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 11): dejar vencer la sesión e intentar pulsar "Confirmar/Reintentar". Resultado: aparece un mensaje genérico "Ocurrió un error"; todas las materias seleccionadas se pierden y no hay instrucciones de rescate.

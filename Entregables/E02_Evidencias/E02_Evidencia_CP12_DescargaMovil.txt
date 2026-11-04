@@ -1,0 +1,6 @@
+Identificador: E8-09
+Relación: CP-12 · D06 (H1)
+Fuente: Actividad 8, p. 7: sesión PE02 (10:20–10:35), Modo B; relacionada con S5.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 14): volver a probar el botón de descarga en 390 × 844 px tras lograr confirmar. Resultado: elementos clave quedan desalineados verticalmente, dificultando la visibilidad del botón de descarga.

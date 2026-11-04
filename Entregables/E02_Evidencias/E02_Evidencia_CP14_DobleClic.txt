@@ -1,0 +1,6 @@
+Identificador: E8-04
+Relación: CP-14 · D09 (H5) · FP-01
+Fuente: Actividad 8, p. 5: sesión PE01 (10:00–10:15), Modo B; respuesta del simulador S6.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 11): pulsar "Confirmar" dos veces rápidamente. Resultado: se crea una sola reserva en el backend, pero la interfaz despliega dos mensajes superpuestos de éxito.

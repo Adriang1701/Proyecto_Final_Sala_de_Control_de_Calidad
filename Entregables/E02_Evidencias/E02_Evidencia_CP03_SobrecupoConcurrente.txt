@@ -1,0 +1,6 @@
+Identificador: E6-03
+Relación: CP-03 · D01 (DEF-02)
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+A03 y A04 enviaron su confirmación casi al mismo tiempo. Ambos recibieron "Lugar confirmado". La consulta final del grupo G1 muestra 36 inscritos. Se observó en dos de tres repeticiones con 34 inscritos iniciales; en la tercera, sólo uno obtuvo lugar.

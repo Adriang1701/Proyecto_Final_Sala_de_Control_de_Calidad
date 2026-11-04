@@ -1,0 +1,6 @@
+Identificador: E6-02
+Relación: CP-02 · D02 (DEF-01)
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+A02 seleccionó la materia y confirmó. Mensaje: "Inscripción realizada". La materia aparece en su horario y el grupo pasa de 10 a 11 inscritos. El historial continúa mostrando el prerrequisito no aprobado. El comportamiento se repitió en tres de tres intentos restablecidos.

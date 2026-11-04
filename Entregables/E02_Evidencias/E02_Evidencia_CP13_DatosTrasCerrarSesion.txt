@@ -1,0 +1,6 @@
+Identificador: E8-07
+Relación: CP-13 · D08 (H3)
+Fuente: Actividad 8, p. 7: sesión PE02 (10:20–10:35), Modo B; respuesta del simulador S7.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 07): cerrar sesión y pulsar la flecha "Atrás" del navegador. Resultado: la pantalla anterior conserva temporalmente el nombre del alumno y su tira de materias hasta que se fuerza una recarga.
