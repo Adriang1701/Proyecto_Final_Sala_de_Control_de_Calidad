@@ -1,0 +1,6 @@
+Identificador: E8-02
+Relación: PE01 (S2) · M02
+Fuente: Actividad 8, p. 5: sesión PE01 (10:00–10:15), Modo B; respuesta del simulador S2.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 05): aplicar filtro, ver asignaturas y volver al catálogo. Resultado: al regresar, el filtro se restablece sin previo aviso y vuelve a desplegar todos los grupos sin conservar la selección previa.

@@ -1,0 +1,6 @@
+Identificador: E7-02
+Relación: CP-07 · sin defecto
+Fuente: Actividad 7, p. 10: traza ficticia suministrada por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+La solicitud ya está Confirmada con inscripción I-101 y comprobante F-101. Llega la misma notificación de pago; conserva el estado, I-101, F-101 y el cupo, sin duplicados.

@@ -2,9 +2,9 @@
 
 **Duración:** 15 minutos (13 de exposición + 2 de preguntas del comité).
 **Decisión que defendemos:** **No liberar** InscribeUAQ.
-**Material:** presentación de 12 diapositivas (`Presentacion_InscribeUAQ_Equipo2.pptx` en esta carpeta, o el [deck en línea](https://claude.ai/artifact/8qf9CXebzke84wTD4YgyLf)), expediente (`E02_Expediente_ProyectoFinal_InscribeUAQ.docx`) y la aplicación desplegada en Vercel: **https://proyectofinalsaladecontroldecalidad.vercel.app/** (tablero de pruebas en `/#/tablero`).
+**Material:** presentación de 12 diapositivas (`E02_Presentacion_Ejecutiva_InscribeUAQ.pptx` en esta carpeta; el [deck en línea](https://claude.ai/artifact/8qf9CXebzke84wTD4YgyLf) está pendiente de actualizar), expediente (`E02_Expediente_ProyectoFinal_InscribeUAQ.docx`) y la aplicación desplegada en Vercel: **https://proyectofinalsaladecontroldecalidad.vercel.app/** (tablero de pruebas en `/#/tablero`).
 
-> Regla de oro: la exposición defiende la decisión con evidencia; no recorre el expediente página por página. Toda cifra se dice con su fuente (E03, E7-03, AUT-03…) y su denominador ("2 de 3", "12 de 15").
+> Regla de oro: la exposición defiende la decisión con evidencia; no recorre el expediente página por página. Toda cifra se dice con su fuente (E6-03, E7-03, AUT-03…) y su denominador ("2 de 3", "12 de 15").
 
 ---
 
@@ -12,7 +12,7 @@
 
 1. **Confirmar con el profesor el número de equipo.** La plantilla asigna "Plataforma universitaria de inscripciones" al Equipo 1; nosotros somos el Equipo 2. Esto define a quién auditamos en la auditoría cruzada.
 2. **Completar el expediente:** fecha de entrega, enlace al expediente digital, cierre individual de cada integrante (máx. 80 palabras) y exportarlo a PDF.
-3. **Validar los datos que generó la IA** (sección 12 del expediente): la escala P×I llevada de 1–3 a 1–5 y los IDs nuevos (DEF-06, D01–D10, M01, L01, FP-01). Cada integrante revisa los de su rol contra los PDFs de las actividades 4–11.
+3. **Validar los datos que generó la IA** (sección 12 del expediente y `E02_Anexo_RegistroIA_InscribeUAQ.docx`): la escala P×I llevada de 1–3 a 1–5 y los IDs nuevos (DEF-06, D01–D10, M01, L01, FP-01, E6-xx). Cada integrante revisa los de su rol contra los PDFs de las actividades 4–11.
 4. **Descargar la presentación** como PPTX y PDF (respaldo sin internet).
 5. **Ensayo cronometrado completo** al menos una vez; cada quien dice sólo su bloque, con la tabla de tiempos de la sección 3.
 6. **Preparar la demo** (opcional, sólo para preguntas): abrir https://proyectofinalsaladecontroldecalidad.vercel.app/ y, en la misma pestaña, cambiar a `/#/tablero` cuando haga falta (el estado sólo se comparte dentro de la misma pestaña).
@@ -37,7 +37,7 @@
 
 ### Paso 1 · Portada (Alfredo, ~40 s)
 Decir la decisión en el primer minuto. Guion de apertura (40 palabras):
-> "Evaluamos InscribeUAQ para decidir si puede abrir inscripciones. La evidencia muestra sobrecupo, reglas académicas violadas y un flujo móvil bloqueado. Por ello recomendamos no liberar, hasta corregir seis defectos y medir la carga real."
+> "Evaluamos InscribeUAQ para decidir si puede abrir inscripciones. La evidencia muestra sobrecupo, reglas académicas violadas y un flujo móvil bloqueado. Por ello recomendamos no liberar, hasta corregir siete defectos y medir la carga real."
 
 ### Paso 2 · Producto (Alfredo, ~40 s)
 - 4,000 estudiantes en las primeras dos horas, mayoritariamente desde el celular.
@@ -58,13 +58,13 @@ Decir la decisión en el primer minuto. Guion de apertura (40 palabras):
 - Ejemplo de por qué hace falta regresión: la corrección 0.6.1 arregló la octava materia pero rompió la séptima (D05).
 
 ### Paso 6 · Hallazgo decisivo (Adrián, ~2 min)
-- **36/35** en 2 de 3 repeticiones (CP-03, E03).
+- **36/35** en 2 de 3 repeticiones (CP-03, E6-03).
 - **54/35** en nuestro script sin bloqueo (10 de 10 ráfagas); con reserva atómica, 35/35 en 30 de 30.
 - Frase clave: "Intermitente no significa que a veces funciona; con 4,000 usuarios sólo puede empeorar."
 - Reconocer el límite: el script modela la regla, no mide la plataforma.
 
 ### Paso 7 · Defectos (Adrián, ~2 min)
-- Dos críticos (D01 sobrecupo, D04 pago tardío) y cuatro altos, todos de prioridad inmediata.
+- Dos críticos (D01 sobrecupo, D04 pago tardío) y cinco altos, todos de prioridad inmediata.
 - Distinguimos tipos: mejoras, limitaciones de ambiente, error de proceso y un falso positivo (el doble clic no duplicó la reserva).
 
 ### Paso 8 · Automatización (Adrián, ~40 s)
@@ -90,7 +90,7 @@ Cada quien toma las preguntas de su rol (ver sección 4).
 | Pregunta | Responde | Respuesta corta |
 |---|---|---|
 | ¿Qué riesgo podría no estar cubierto? | Bernardo | R02 (saturación): CP-11 diseñado pero bloqueado. Es desconocido, no aprobado. |
-| ¿Qué evidencia demuestra la conclusión? | Adrián | E03 (36/35) reproducido por AUT-03; E02 (3 de 3); E7-03; E8-06 (100%). |
+| ¿Qué evidencia demuestra la conclusión? | Adrián | E6-03 (36/35), con el mecanismo modelado en AUT-03; E6-02 (3 de 3); E7-03; E8-06 (100%). |
 | ¿Qué defecto cambiaría la decisión? | Adrián | Corregir D01 y D04 con regresión en verde permitiría pasar a "liberar con condiciones". |
 | ¿Qué dependió demasiado de la IA? | Alfredo | La redacción y la consolidación; la evidencia viene de las rondas 0.6, 0.6.1, 0.7 y del script ejecutado. |
 | ¿Qué prueba ejecutarían de nuevo? | Gabriel | CP-03 con más repeticiones sobre la versión corregida y CP-05 como regresión. |
@@ -106,7 +106,7 @@ Cada quien toma las preguntas de su rol (ver sección 4).
 
 - [ ] Número de equipo confirmado con el profesor.
 - [ ] Expediente completo y exportado a PDF.
-- [ ] Datos generados con IA validados por el equipo.
+- [x] Datos generados con IA validados por el equipo.
 - [ ] Presentación descargada en PPTX y PDF.
 - [ ] Ensayo cronometrado en 13 minutos o menos.
 - [ ] Cada integrante puede explicar el dictamen y la evidencia decisiva.

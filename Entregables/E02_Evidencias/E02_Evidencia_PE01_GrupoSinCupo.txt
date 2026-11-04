@@ -1,0 +1,6 @@
+Identificador: E8-03
+Relación: PE01 (S3) · comportamiento esperado
+Fuente: Actividad 8, p. 5: sesión PE01 (10:00–10:15), Modo B; respuesta del simulador S3.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 08): intentar seleccionar un grupo sin lugares (0/35). Resultado: el botón de reserva se encuentra deshabilitado y aparece la etiqueta visible "Sin cupo".

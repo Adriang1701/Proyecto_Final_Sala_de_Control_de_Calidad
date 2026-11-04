@@ -1,0 +1,6 @@
+Identificador: E7-04
+Relación: CP-07 · sin defecto
+Fuente: Actividad 7, p. 10: traza ficticia suministrada por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+Con 5 lugares libres, la validación reserva uno (quedan 4). Se rechaza el pago: vuelve a Borrador y quedan 5. Una nueva validación reserva uno y quedan 4.

@@ -1,0 +1,6 @@
+Identificador: E7-01
+Relación: CP-09 · D03 (DEF-05)
+Fuente: Actividad 7, p. 10: traza ficticia suministrada por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+Desde Borrador: C1 = No, C2 = Sí, C3 = No. El sistema permite reservar y cambia a Pendiente de pago; los lugares disponibles pasan de 5 a 4.

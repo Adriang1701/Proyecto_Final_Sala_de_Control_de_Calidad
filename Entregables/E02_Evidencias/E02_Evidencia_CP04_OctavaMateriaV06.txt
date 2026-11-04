@@ -1,0 +1,6 @@
+Identificador: E6-04
+Relación: CP-04 · D10 (DEF-03)
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+A05 agregó la octava materia. El sistema mostró "Inscripción realizada". Al volver a consultar el horario aparecieron ocho materias. Se obtuvo el mismo resultado en tres de tres intentos restablecidos.

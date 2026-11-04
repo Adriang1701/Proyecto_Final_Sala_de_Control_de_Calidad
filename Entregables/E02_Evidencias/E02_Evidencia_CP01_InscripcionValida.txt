@@ -1,0 +1,6 @@
+Identificador: E6-01
+Relación: CP-01 · sin defecto
+Fuente: Actividad 6, p. 3: registro simulado suministrado por el curso; no es una ejecución del equipo.
+Datos: ficticios; sin información personal.
+
+A01 seleccionó la materia y confirmó. Mensaje: "Inscripción realizada". Consulta posterior: tres materias para A01 y 11 inscritos en el grupo. Se repitió dos veces desde los mismos datos iniciales, con igual resultado.

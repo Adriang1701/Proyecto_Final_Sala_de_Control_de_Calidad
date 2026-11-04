@@ -1,0 +1,6 @@
+Identificador: E6-08
+Relación: CP-05 · D05 (DEF-04)
+Fuente: Actividad 6, p. 8: evidencia simulada de la versión 0.6.1 suministrada por el curso.
+Datos: ficticios; sin información personal.
+
+Un estudiante con seis materias, elegible y con cupo, intenta registrar la séptima: también recibe rechazo y conserva seis.

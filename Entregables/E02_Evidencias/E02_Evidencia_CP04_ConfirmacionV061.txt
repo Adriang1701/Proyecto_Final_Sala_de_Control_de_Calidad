@@ -1,0 +1,6 @@
+Identificador: E6-07
+Relación: CP-04 · D10 (DEF-03) cerrado
+Fuente: Actividad 6, p. 8: evidencia simulada de la versión 0.6.1 suministrada por el curso.
+Datos: ficticios; sin información personal.
+
+El equipo técnico anuncia una corrección del máximo de materias. Al repetir CP6-04 con siete materias se rechaza la octava y el total queda en siete.

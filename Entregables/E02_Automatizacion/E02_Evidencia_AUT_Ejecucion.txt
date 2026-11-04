@@ -1,0 +1,15 @@
+Ejecucion: 2026-10-28 21:38:37 | Python 3.11.9 | Windows 11
+test_d1_a_d8 (test_inscripcion.AUT01TablaDecision.test_d1_a_d8) ... ok
+test_cupo_34_acepta_ultimo_lugar (test_inscripcion.AUT02Limites.test_cupo_34_acepta_ultimo_lugar) ... ok
+test_cupo_35_rechaza (test_inscripcion.AUT02Limites.test_cupo_35_rechaza) ... ok
+test_septima_a_octava_rechazada (test_inscripcion.AUT02Limites.test_septima_a_octava_rechazada) ... ok
+test_sexta_a_septima_materia_permitida (test_inscripcion.AUT02Limites.test_sexta_a_septima_materia_permitida) ... ok
+test_ultimo_cupo_con_reserva_atomica (test_inscripcion.AUT03Concurrencia.test_ultimo_cupo_con_reserva_atomica) ... ok
+test_ultimo_cupo_v06_sin_bloqueo (test_inscripcion.AUT03Concurrencia.test_ultimo_cupo_v06_sin_bloqueo) ... expected failure
+
+----------------------------------------------------------------------
+Ran 7 tests in 0.074s
+
+OK (expected failures=1)
+v0.6 sin bloqueo (inscritos, exitos) x10: [(54, 20), (54, 20), (54, 20), (54, 20), (54, 20), (54, 20), (54, 20), (54, 20), (54, 20), (54, 20)]
+Corrida con sobrecupo: 10 /10

@@ -1,0 +1,6 @@
+Identificador: E8-01
+Relación: PE01 (S1) · comportamiento esperado
+Fuente: Actividad 8, p. 5: sesión PE01 (10:00–10:15), Modo B; respuesta del simulador S1.
+Datos: ficticios; sin información personal.
+
+Acción (minuto 02): iniciar sesión con credenciales válidas. Resultado: muestra el tablero principal con el nombre correcto del alumno; tiempo de respuesta aprox. 1 segundo.
